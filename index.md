@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Organizr
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -78,6 +78,6 @@ page_sections:
     Blocks and preview them as you go along.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Organizr is made with ❤︎
 
 ---
