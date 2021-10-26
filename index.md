@@ -14,7 +14,7 @@ page_sections:
   - link: "#customize"
     link_text: API
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Discord
   - link: "#blocks"
     link_text: Blocks
   cta:
