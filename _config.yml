@@ -1,21 +1,21 @@
-title: uBuild Design Blocks
-author: Forestry.io
-email: support@forestry.io
-description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
-baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
-
-# Build settings
+---
+title: Organizr
+author: CauseFX
+email: causefx@me.com
+description: Do you have quite a bit of services running on your computer or server?
+  Do you have a lot of bookmarks or have to memorize a bunch of ip's and ports? Well,
+  Organizr is here to help with that. Organizr allows you to setup "Tabs" that will
+  be loaded all in one webpage. You can then work on your server with ease. Want to
+  give users access to some Tabs? No problem, just enable user support and have them
+  make an account. Want guests to be able to visit too? Enable Guest support for those
+  tabs.
+baseurl: "/ubuild-jekyll"
+url: ''
 defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default" # this ensures all content renders with layouts/default.html
-
+- scope:
+    path: ''
+  values:
+    layout: default
 plugins:
-  - jekyll-feed
-  - jekyll-menus
-
+- jekyll-feed
+- jekyll-menus
