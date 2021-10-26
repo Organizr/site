@@ -27,7 +27,7 @@ page_sections:
   content: The tool that allows you to manage the important things on your server.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/causefx/organizr
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
