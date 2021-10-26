@@ -9,7 +9,7 @@ description: Do you have quite a bit of services running on your computer or ser
   give users access to some Tabs? No problem, just enable user support and have them
   make an account. Want guests to be able to visit too? Enable Guest support for those
   tabs.
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: ''
 defaults:
 - scope:
